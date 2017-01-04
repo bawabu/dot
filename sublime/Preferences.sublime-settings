@@ -1,0 +1,105 @@
+{
+	"auto_indent": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.dmp",
+		"*/min/*.js",
+		"*/min/*.css",
+		"*/min/*.map"
+	],
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"copy_with_empty_selection": true,
+	"default_line_ending": "unix",
+	"detect_indentation": true,
+	"draw_indent_guides": true,
+	"draw_minimap_border": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"fallback_encoding": "UTF-8",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"cache.properties",
+		"*.map",
+		"*.orig"
+	],
+	"flatland_square_tabs": true,
+	"folder_exclude_patterns":
+	[
+		".tox",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"vendor",
+		"node_modules",
+		"bower_components"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_files": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"preview_on_click": true,
+	"rulers":
+	[
+		79,
+		85
+	],
+	"sidebar_medium": true,
+	"sidebar_row_padding_medium": true,
+	"smart_indent": true,
+	"tab_size": 4,
+	"tabs_medium": true,
+	"tabs_padding_medium": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
+}
