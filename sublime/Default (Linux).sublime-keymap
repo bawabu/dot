@@ -1,0 +1,26 @@
+[
+    {
+        "keys": ["ctrl+k"],
+        "command": "toggle_side_bar"
+    },
+    {
+        "keys": ["ctrl+m"],
+        "command": "toggle_minimap"
+    },
+    {
+        "keys": ["ctrl+tab"],
+        "command": "next_view"
+    },
+    {
+        "keys": ["ctrl+shift+tab"],
+        "command": "prev_view"
+    },
+    {
+        "keys": ["ctrl+u"],
+        "command": "upper_case"
+    },
+    {
+        "keys": ["ctrl+l"],
+        "command": "lower_case"
+    }
+]
